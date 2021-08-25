@@ -1,6 +1,0 @@
----
-collections:
-  - name: git@github.com:fitbeard/ansible-collection-shared.git
-    type: git
-    version: master
-
